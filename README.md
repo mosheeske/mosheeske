@@ -39,6 +39,10 @@ I specialize in transforming data into actionable insights through exploratory a
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosheeske&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosheeske&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mosheeske&theme=github_dark" />
+</p>
 ---
 
 ## 🚀 Featured Projects
