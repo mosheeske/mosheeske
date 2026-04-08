@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="DA Imagen 1.jpg" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Moises Eskenasy</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau</h3>
 
