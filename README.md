@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="DA.jpg" alt="banner" />
+  <img src="DA.jpg" alt="banner" width="70%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Moises Eskenasy</h1>
