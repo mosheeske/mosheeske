@@ -47,8 +47,7 @@ I specialize in transforming data into actionable insights through exploratory a
 ### 📊 Global YouTube Trending Videos Analysis
 Exploratory analysis of global trending videos to identify patterns in engagement, categories, and regional behavior.
 
-🔗 https://github.com/mosheeske  
-📊 Tableau Dashboard included  
+📊 [https://public.tableau.com/app/profile/moises.eskenasy/viz/Proyecto-Sprint13/Anlisisglobaldevideosentendencia] 
 
 ---
 
